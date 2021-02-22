@@ -5,7 +5,7 @@
 
 - 🧠 Portfolio [https://miguelmohr.com/](https://miguelmohr.com/)
 
-- 📫 How to reach me **miguelmohrbusiness@gmail.com**
+- 📫 How to reach me **me@miguelmohr.com**
 
 - ⚡ Fun fact **I love math**
 
