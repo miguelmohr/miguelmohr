@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel aka [alpha]</h1>
 <h3 align="center">A passionate programmer from Germany</h3>
 
-- 🌱 I’m currently learning **everything ;)**
-
 - 🧠 Portfolio [https://miguelmohr.com/](https://miguelmohr.com/)
 
 - 📫 How to reach me **me@miguelmohr.com**
